@@ -1,4 +1,15 @@
-div{
+.header{
+    height: 200px;
+    text-align:center ;
+    -ms-text-size-adjust: 15px;
+    /* background-image: url('pngtree-website-technology-line-dark-background-image_2344719.jpg'); */
+    background-image: url('../image/images.jpg');
+    background-repeat:repeat-x;
+}
+
+
+
+.tk{
     background-color: tomato;
     padding: 10px;
     margin-bottom: 5px;
